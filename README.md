@@ -1,5 +1,5 @@
 # DataScience
-Here are some Ipython notebooks which I documented the process to learn some datascience skills, such as data analysis, visualization, etc.
+Here are some Ipython notebooks which I documented the process to learn some data science skills, such as data analysis, visualization, etc.
 
 Current Ipython Notebook
 1.Pandas.ipynb
